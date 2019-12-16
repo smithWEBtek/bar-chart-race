@@ -86,7 +86,7 @@ path.domain{
     .attrs({
       class: 'caption',
       x: width,
-      y: height-5
+      y: height
     })
     .styles({
       'text-anchor': 'end'
